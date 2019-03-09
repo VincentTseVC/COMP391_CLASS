@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{78B4ACB9-CD72-A1FB-07FE-AD4338F7A192}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestoryByContract.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RandomRotator.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BoundaryDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestoryByContract.cs" Line="19" Column="2" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
